@@ -356,8 +356,13 @@ color: #848789;
 .knopka{
 display: block;
 margin-top: 1px;
+<<<<<<< HEAD
 	height: 300px;
 	background-color: green;
+=======
+	height: 200px;
+	background: #282f35;
+>>>>>>> parent of 5fe185e (изменения цвета)
 	display: flex;
 	align-items: center;
 	justify-content: center;
